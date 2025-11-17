@@ -1,4 +1,4 @@
-# Recipe Explorer — Architecture
+# Recipe Pro — Architecture
 
 ## Purpose and Scope
 Recipe Explorer is a lightweight React web application that allows users to browse, search, filter, and view recipes. The scope of this document is the frontend container located at recipe-explorer-130854-130864/frontend_react. It describes goals, high-level design, React architecture, data flow, configuration, error handling, deployment considerations, and outlines future enhancements.
